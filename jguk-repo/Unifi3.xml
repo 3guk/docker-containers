@@ -47,7 +47,7 @@
   <Data>
     <Volume>
       <HostDir>/mnt/cache/appdata/unifi/</HostDir>
-      <ContainerDir>/var/lib/unifi</ContainerDir>
+      <ContainerDir>/config/</ContainerDir>
       <Mode>rw</Mode>
     </Volume>
   </Data>
