@@ -2,10 +2,10 @@
 <Container>
   <Beta>False</Beta>
   <Category>HomeAutomation: Network:Management</Category>
-  <Name>UniFi</Name>
+  <Name>UniFi-Fresh</Name>
   <Description></Description>
-  <Registry>https://registry.hub.docker.com/u/jguk/unifi/</Registry>
-  <Repository>jguk/unifi</Repository>
+  <Registry>https://registry.hub.docker.com/u/jguk/unifi-fresh/</Registry>
+  <Repository>jguk/unifi-fresh</Repository>
   <BindTime>true</BindTime>
   <Privileged>true</Privileged>
   <Environment/>
